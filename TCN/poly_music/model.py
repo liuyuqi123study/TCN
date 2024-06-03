@@ -1,5 +1,5 @@
 from torch import nn
-from TCN.tcn import TemporalConvNet
+from TCN.tcn import TemporalConvNet#这就是在对定义好的网络进行引用
 import torch.nn.functional as F
 
 
